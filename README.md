@@ -1,6 +1,6 @@
 # Hi, I'm Valentin 👋
 
-📍 **Geneva, Switzerland** | 🏨 **Founder @ [Ranova](https://ranova.ai)** | 🎓 **EPFL Data Science**
+📍 **Geneva, Switzerland** | 🏨 **Founder @ [Ranova](https://ranova.ai)** | 🎓 **EPFL, Data Science**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -12,8 +12,6 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-k3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black)
-
-> Building AI tools for hospitality — and vibe coding everything else. Ex-Expedia, EPFL-trained, shipping fast from Geneva.
 
 ## What I'm Building
 
