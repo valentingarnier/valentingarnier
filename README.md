@@ -15,6 +15,8 @@
 
 ### AI & ML
 
+![Claude](https://img.shields.io/badge/-Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -31,11 +33,11 @@
 
 ## What I'm Building
 
-- 🏨 **[Ranova](https://www.ranova.ai)** — Hotels waste hours manually replying to reviews across 4+ platforms. Ranova centralizes reviews from Booking, Google, TripAdvisor & Expedia, responds in your brand voice with AI, and turns guest feedback into action items. Backed by EHL, EPFL & HotellerieSuisse.
-- 🎯 **[SubSniper](https://github.com/valentingarnier/subsniper)** — Forgotten subscriptions silently drain your bank account. SubSniper is a native macOS menu bar app that scans your email with AI to surface every recurring charge, flags stale ones as likely cancelled, and warns you before the next bill hits.
-- 🩺 **[Adminds](https://github.com/valentingarnier/adminds)** — Psychiatrists spend too much time writing reports instead of treating patients. AdminDS uses AI to draft clinical reports from session notes, so clinicians get hours back.
-- 🧠 **[YourClaw](https://www.yourclaw.dev)** — Switching between AI apps is fragmented and slow. YourClaw is a personal AI assistant that lives where you already are — Telegram, WhatsApp & more. *(in progress)*
-- 📩 **[LinkedInbox](https://www.linkedinbox.co)** — LinkedIn outreach is a black box — you send messages but have no idea what's working. LinkedInbox analyses your cold outreach to show open rates, reply patterns, and what messaging actually converts.
+- 🏨 **[Ranova](https://www.ranova.ai)** — AI-powered hotel review management across Booking, Google, TripAdvisor & Expedia. Backed by EHL, EPFL & HotellerieSuisse.
+- 🎯 **[SubSniper](https://github.com/valentingarnier/subsniper)** — macOS menu bar app that scans your email with AI to find forgotten subscriptions before they bill you.
+- 🩺 **[Adminds](https://github.com/valentingarnier/adminds)** — AI that drafts clinical reports for psychiatrists from session notes.
+- 🧠 **[YourClaw](https://www.yourclaw.dev)** — Personal AI assistant that lives in Telegram, WhatsApp & more. *(in progress)*
+- 📩 **[LinkedInbox](https://www.linkedinbox.co)** — Analytics for LinkedIn cold outreach — open rates, reply patterns, and what actually converts.
 
 ## EPFL Projects
 
