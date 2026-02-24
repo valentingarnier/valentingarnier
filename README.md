@@ -15,6 +15,8 @@
 
 ### AI & ML
 
+![Claude](https://img.shields.io/badge/-Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -39,12 +41,12 @@
 
 ## EPFL Projects
 
-- ✈️ **[Travel Patterns](https://valentingarnier.github.io/)** — Where do people actually fly? Data story analysing global flight patterns & predicting home areas from travel data. ML model hits 80.4% accuracy on continent prediction.
-- 📡 **[Signal Reconstruction](https://github.com/valentingarnier/pdc_project)** — How do you recover a clean signal from a noisy channel? Probabilistic decoding over noisy communication channels.
-- 🎵 **[Billboard NLP](https://github.com/valentingarnier/billboard)** — What makes a #1 hit? NLP analysis of lyrics and associated data for Billboard's Top 100, 1950–2015.
-- 🤖 **[Recommender System](https://github.com/valentingarnier/recommenderSystem-ML)** — Collaborative filtering and matrix factorization for recommendation engines. ML course project.
+- ✈️ **[Travel Patterns](https://valentingarnier.github.io/)** — Predicting home locations from global flight data. ML model hits 80.4% accuracy on continent prediction.
+- 📡 **[Signal Reconstruction](https://github.com/valentingarnier/pdc_project)** — Probabilistic decoding to recover clean signals from noisy channels.
+- 🎵 **[Billboard NLP](https://github.com/valentingarnier/billboard)** — NLP analysis of 65 years of Billboard #1 hits to find what makes a chart-topper.
+- 🤖 **[Recommender System](https://github.com/valentingarnier/recommenderSystem-ML)** — Collaborative filtering and matrix factorization for movie recommendations.
 - ⚙️ **[Systems for Data Science](https://github.com/valentingarnier/SysDS_Milestone3)** — Distributed data processing pipeline in Scala.
-- 🎮 **[Computer Architecture](https://github.com/valentingarnier/Computer-Architecture)** — Pong game on an FPGA board in VHDL/assembler. Hardware meets software.
+- 🎮 **[Computer Architecture](https://github.com/valentingarnier/Computer-Architecture)** — Pong on an FPGA board in VHDL/assembler.
 
 ## GitHub Activity
 
