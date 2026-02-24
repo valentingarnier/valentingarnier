@@ -10,9 +10,26 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-k3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black)
+
+### AI & ML
+
+![Claude](https://img.shields.io/badge/-Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG_Pipelines-FF6F00?style=flat-square)
+![Chunking](https://img.shields.io/badge/-Chunking_Strategies-F97316?style=flat-square)
+![Embeddings](https://img.shields.io/badge/-Embeddings-8B5CF6?style=flat-square)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6446?style=flat-square)
+![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-10A37F?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/-Semantic_Search-0EA5E9?style=flat-square)
+![Fine--tuning](https://img.shields.io/badge/-Fine--tuning-E11D48?style=flat-square)
+![AI Agents](https://img.shields.io/badge/-AI_Agents-F59E0B?style=flat-square)
 
 ## What I'm Building
 
