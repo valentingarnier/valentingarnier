@@ -4,6 +4,7 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -15,9 +16,10 @@
 
 ## What I'm Building
 
-- 🏨 **[Ranova](https://ranova.ai)** — AI-powered reputation management for hotels. Centralizes reviews from Booking, Google, TripAdvisor & Expedia. Responds in your brand voice. Turns feedback into action items. Backed by EHL, EPFL & HotellerieSuisse.
-- 🧠 **[YourClaw](https://github.com/valentingarnier/yourclaw)** — Personal AI assistant on Telegram, WhatsApp & more *(in progress)*
-- **[LinkedInbox](https://www.linkedinbox.co)** - Analyse your Linkedin cold outreach messages and get insights.
+- 🏨 **[Ranova](https://ranova.ai)** — Hotels waste hours manually replying to reviews across 4+ platforms. Ranova centralizes reviews from Booking, Google, TripAdvisor & Expedia, responds in your brand voice with AI, and turns guest feedback into action items. Backed by EHL, EPFL & HotellerieSuisse.
+- 🎯 **[SubSniper](https://github.com/valentingarnier/subsniper)** — Forgotten subscriptions silently drain your bank account. SubSniper is a native macOS menu bar app that scans your email with AI to surface every recurring charge, flags stale ones as likely cancelled, and warns you before the next bill hits.
+- 🧠 **[YourClaw](https://github.com/valentingarnier/yourclaw)** — Switching between AI apps is fragmented and slow. YourClaw is a personal AI assistant that lives where you already are — Telegram, WhatsApp & more. *(in progress)*
+- 📩 **[LinkedInbox](https://www.linkedinbox.co)** — LinkedIn outreach is a black box — you send messages but have no idea what's working. LinkedInbox analyses your cold outreach to show open rates, reply patterns, and what messaging actually converts.
 
 ## EPFL Projects (Back in the days)
 
