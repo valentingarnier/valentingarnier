@@ -15,8 +15,6 @@
 
 ### AI & ML
 
-![Claude](https://img.shields.io/badge/-Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
