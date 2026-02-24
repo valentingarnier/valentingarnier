@@ -38,7 +38,7 @@
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Valentin_Garnier-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentingarnier90/)
-[![Website](https://img.shields.io/badge/-ranova.ai-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://ranova.ai)
+[![Website](https://img.shields.io/badge/-ranova.ai-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.ranova.ai)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/valentingarnier)
 
 ---
