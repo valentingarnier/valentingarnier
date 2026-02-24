@@ -18,13 +18,18 @@
 
 - 🏨 **[Ranova](https://ranova.ai)** — Hotels waste hours manually replying to reviews across 4+ platforms. Ranova centralizes reviews from Booking, Google, TripAdvisor & Expedia, responds in your brand voice with AI, and turns guest feedback into action items. Backed by EHL, EPFL & HotellerieSuisse.
 - 🎯 **[SubSniper](https://github.com/valentingarnier/subsniper)** — Forgotten subscriptions silently drain your bank account. SubSniper is a native macOS menu bar app that scans your email with AI to surface every recurring charge, flags stale ones as likely cancelled, and warns you before the next bill hits.
+- 🩺 **[AdminDS](https://github.com/valentingarnier/adminds)** — Psychiatrists spend too much time writing reports instead of treating patients. AdminDS uses AI to draft clinical reports from session notes, so clinicians get hours back.
 - 🧠 **[YourClaw](https://github.com/valentingarnier/yourclaw)** — Switching between AI apps is fragmented and slow. YourClaw is a personal AI assistant that lives where you already are — Telegram, WhatsApp & more. *(in progress)*
 - 📩 **[LinkedInbox](https://www.linkedinbox.co)** — LinkedIn outreach is a black box — you send messages but have no idea what's working. LinkedInbox analyses your cold outreach to show open rates, reply patterns, and what messaging actually converts.
 
-## EPFL Projects (Back in the days)
+## EPFL Projects
 
-- ✈️ **[Travel Patterns](https://valentingarnier.github.io/)** — Data story analysing global flight patterns & predicting home areas from travel data. ML model hits 80.4% accuracy on continent prediction.
-- 🎮 **[Computer-Architecture](https://github.com/valentingarnier/Computer-Architecture)** — Pong game on an FPGA board in VHDL/assembler
+- ✈️ **[Travel Patterns](https://valentingarnier.github.io/)** — Where do people actually fly? Data story analysing global flight patterns & predicting home areas from travel data. ML model hits 80.4% accuracy on continent prediction.
+- 📡 **[Signal Reconstruction](https://github.com/valentingarnier/pdc_project)** — How do you recover a clean signal from a noisy channel? Probabilistic decoding over noisy communication channels.
+- 🎵 **[Billboard NLP](https://github.com/valentingarnier/billboard)** — What makes a #1 hit? NLP analysis of lyrics and associated data for Billboard's Top 100, 1950–2015.
+- 🤖 **[Recommender System](https://github.com/valentingarnier/recommenderSystem-ML)** — Collaborative filtering and matrix factorization for recommendation engines. ML course project.
+- ⚙️ **[Systems for Data Science](https://github.com/valentingarnier/SysDS_Milestone3)** — Distributed data processing pipeline in Scala.
+- 🎮 **[Computer Architecture](https://github.com/valentingarnier/Computer-Architecture)** — Pong game on an FPGA board in VHDL/assembler. Hardware meets software.
 
 ## GitHub Activity
 
