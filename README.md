@@ -36,6 +36,7 @@
 - 🩺 **[Adminds](https://github.com/valentingarnier/adminds)** — AI that drafts clinical reports for psychiatrists from session notes.
 - 🧠 **[YourClaw](https://www.yourclaw.dev)** — Personal AI assistant that lives in Telegram, WhatsApp & more. *(in progress)*
 - 📩 **[LinkedInbox](https://www.linkedinbox.co)** — Analytics for LinkedIn cold outreach — open rates, reply patterns, and what actually converts.
+- 🎛️ **[Mission Control](https://github.com/valentingarnier/missioncontrol)** — Native macOS kanban app powered by Claude Code. Chat in the terminal, the board updates live. Your AI task manager.
 
 ## EPFL Projects
 
