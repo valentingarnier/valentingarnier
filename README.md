@@ -3,38 +3,19 @@
 📍 **Geneva, Switzerland** | 🏨 **Founder @ [Ranova](https://www.ranova.ai)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-k3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black)
 
-### AI & ML
-
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG_Pipelines-FF6F00?style=flat-square)
-![Chunking](https://img.shields.io/badge/-Chunking_Strategies-F97316?style=flat-square)
-![Embeddings](https://img.shields.io/badge/-Embeddings-8B5CF6?style=flat-square)
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6446?style=flat-square)
-![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-10A37F?style=flat-square)
-![Semantic Search](https://img.shields.io/badge/-Semantic_Search-0EA5E9?style=flat-square)
-![Fine--tuning](https://img.shields.io/badge/-Fine--tuning-E11D48?style=flat-square)
-![AI Agents](https://img.shields.io/badge/-AI_Agents-F59E0B?style=flat-square)
-![OpenAI Agents SDK](https://img.shields.io/badge/-OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white)
-
-### Certifications
-
-![Azure Developer Associate](https://img.shields.io/badge/-Microsoft_Certified:_Azure_Developer_Associate_(AZ--204)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure Fundamentals](https://img.shields.io/badge/-Microsoft_Certified:_Azure_Fundamentals_(AZ--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+**Microsoft Certified:** Azure Developer Associate (AZ-204) · Azure Fundamentals (AZ-900)
 
 ## What I'm Building
 
